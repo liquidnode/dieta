@@ -1,0 +1,25 @@
+#x	y	z	type	param_name
+0	0	0	A	mu0
+1	0	0	A	mu1
+#site1	site2	type	param_name
+0	1	A	t
+1   0   V   0   A   t
+0   0   V   1   A   mup0
+1   1   V   1   A   mup1
+#translations
+2	0	0
+0   0   0
+#symmetry points
+-pi	0	0
+-pi/2	0	0
+0	0	0
+pi/2	0	0
+pi	0	0
+#eps
+0.05
+#k steps
+60
+#bz integration polygons
+#extra flags
+boson
+gp_exact

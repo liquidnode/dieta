@@ -1,0 +1,47 @@
+#x	y	z	type	param_name
+0	0	0	A	mu
+1	0	0	A	mu
+0	1	0	A	mu
+1	1	0	A	mu
+#site1	site2	type	param_name
+0	1	B	ta
+0	1	C	inter
+2	3	B	ta
+2	3	C	inter
+0	2	B	ta
+0	2	C	inter
+1	3	B	ta
+1	3	C	inter
+1	0	V	0	B	ta
+3	2	V	0	B	ta
+2	0	V	1	B	ta
+3	1	V	1	B	ta
+1   0   M   0   C   inter
+3   2   M   0   C   inter
+2   0   M   1   C   inter
+3   1   M   1   C   inter
+#translations
+2	0	0
+0	2	0
+#k points
+pi/2	pi/2	0
+pi	0	0
+pi	pi	0
+pi/2	pi/2	0
+0	0	0
+#eps
+0.05
+#k steps
+240
+#bz integration polygons
+-pi   -pi   0
+pi  -pi   0
+-pi   pi  0
+pi  pi  0
+1
+#extra flags
+nambu
+cluster_densities
+omega_start 0
+omega_end   3
+omega_step  240

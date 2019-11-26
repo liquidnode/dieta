@@ -1,0 +1,6 @@
+ 
+Examples on how to compute spectra are given in square_Heisenberg_AFM_4site and square_Heisenberg_AFM_24site.
+Examples on how to use DIETA to compute grand potentials and using those to optimize reference systems parameters
+are given in checkerboard_BSFT and bose_hubbard_BSFT. In bose_hubbard_BSFT the optimization is used to compute the
+superfluid to Mott-insulator transition in the 1D Bose Hubbard model. In checkerboard_BSFT the optimal cluster 
+chemical potential is found for a system of hardcore bosons on a checkerboard 1D lattice
