@@ -1,5 +1,5 @@
 # DIETA
-DIETA (DIETA Ist Ein Tolles Akronym) is a software for quantum cluster simulations.
+DIETA (**D**IETA **I**st **E**in **T**olles **A**kronym) is a software for quantum cluster simulations.
 It is able to calculate excitation spectra of bosonic/fermionic systems using 
 Cluster Perturbation Theory \[1\]/Bosonic Self-Energy Functional Theory \[2\]/Variational Cluster Approach \[3\].
 DIETA also includes modifications done to CPT and BSFT for application to hardcore boson/spin models.
